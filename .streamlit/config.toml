@@ -1,6 +1,6 @@
 [theme]
-primaryColor = "#FFB6C1"               # Rosa claro (Light Pink)
-backgroundColor = "#FFF0F5"            # Lavanda rosada (Lavender Blush)
-secondaryBackgroundColor = "#FFE4E1"   # Névoa rosa (Misty Rose)
-textColor = "#800020"                  # Vinho (Burgundy)
+primaryColor = "#FFB6C1"               
+backgroundColor = "#FFF0F5"            
+secondaryBackgroundColor = "#FFE4E1"   
+textColor = "#800020"                  
 font = "sans serif"
