@@ -4,3 +4,4 @@ numpy
 prophet
 scikit-learn
 plotly
+statsmodels
