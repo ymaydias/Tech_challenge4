@@ -60,5 +60,25 @@ Compreender a correlação e a dinâmica entre os preços do petróleo e a cota�
 - **Estratégias de Hedge:** Investidores devem considerar instrumentos financeiros como futuros e opções para proteger-se contra movimentos adversos nos preços do petróleo e na cotação do dólar.
 - **Políticas Econômicas Adaptativas:** Policymakers devem desenvolver políticas flexíveis que possam responder rapidamente a mudanças nos mercados de petróleo e câmbio.
 - **Educação e Treinamento:** Promover a educação financeira para investidores e a capacitação de policymakers para interpretar e utilizar os insights da análise de forma eficaz.
+        
+    """)
+
+st.markdown("""
+---
+### 📚 Referências
+
+Plotly Technologies Inc. (2023). *Plotly Graphing Libraries*. Retirado de https://plotly.com/
+
+Prophet (2023). *Facebook Prophet*. Retirado de https://facebook.github.io/prophet/
+
+Streamlit Inc. (2023). *Streamlit Documentation*. Retirado de https://docs.streamlit.io/
+
+Instituto de Pesquisa Econômica Aplicada. (2023). *Weekly U.S. Crude Oil Stocks*. Retirado de http://www.ipeadata.gov.br/ExibeSerie.aspx?serid=1650971490&oper=view
+
+Instituto de Pesquisa Econômica Aplicada. *Weekly U.S. Crude Oil Stocks*. Retirado de http://www.ipeadata.gov.br/ExibeSerie.aspx?serid=38590&module=M
+
+Wikipedia. (2023). *Revolução Iraniana*. Retirado de https://pt.wikipedia.org/wiki/Revolução_Iraniana
+
+Wikipedia. (2023). *Guerra do Golfo*. Retirado de https://pt.wikipedia.org/wiki/Guerra_do_Golfo
 
 """)
