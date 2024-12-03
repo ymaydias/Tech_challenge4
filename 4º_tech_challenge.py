@@ -94,7 +94,3 @@ ax.set_ylabel('Preço - petróleo bruto - Brent (FOB)')
 plt.show()
 
 model.changepoints
-
-import joblib
-
-joblib.dump(model, 'Prophet.joblib')
