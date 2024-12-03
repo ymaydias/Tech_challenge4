@@ -67,18 +67,18 @@ st.markdown("""
 ---
 ### 📚 Referências
 
-Plotly Technologies Inc. (2023). *Plotly Graphing Libraries*. Retirado de https://plotly.com/
+Plotly Technologies Inc. *Plotly Graphing Libraries*. Retirado de https://plotly.com/
 
-Prophet (2023). *Facebook Prophet*. Retirado de https://facebook.github.io/prophet/
+Prophet. *Facebook Prophet*. Retirado de https://facebook.github.io/prophet/
 
-Streamlit Inc. (2023). *Streamlit Documentation*. Retirado de https://docs.streamlit.io/
+Streamlit Inc. *Streamlit Documentation*. Retirado de https://docs.streamlit.io/
 
-Instituto de Pesquisa Econômica Aplicada. (2023). *Weekly U.S. Crude Oil Stocks*. Retirado de http://www.ipeadata.gov.br/ExibeSerie.aspx?serid=1650971490&oper=view
+Instituto de Pesquisa Econômica Aplicada. *Weekly U.S. Crude Oil Stocks*. Retirado de http://www.ipeadata.gov.br/ExibeSerie.aspx?serid=1650971490&oper=view
 
 Instituto de Pesquisa Econômica Aplicada. *Weekly U.S. Crude Oil Stocks*. Retirado de http://www.ipeadata.gov.br/ExibeSerie.aspx?serid=38590&module=M
 
-Wikipedia. (2023). *Revolução Iraniana*. Retirado de https://pt.wikipedia.org/wiki/Revolução_Iraniana
+Wikipedia. *Revolução Iraniana*. Retirado de https://pt.wikipedia.org/wiki/Revolução_Iraniana
 
-Wikipedia. (2023). *Guerra do Golfo*. Retirado de https://pt.wikipedia.org/wiki/Guerra_do_Golfo
+Wikipedia. *Guerra do Golfo*. Retirado de https://pt.wikipedia.org/wiki/Guerra_do_Golfo
 
 """)
